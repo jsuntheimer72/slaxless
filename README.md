@@ -1,0 +1,2 @@
+# slaxless
+Suckless meets Slax
